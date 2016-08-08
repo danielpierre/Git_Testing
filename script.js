@@ -1,3 +1,5 @@
 $(function() {
-	// stuff
+	$('div').on('click', function() {
+		console.log('Wow!');
+	});
 });
